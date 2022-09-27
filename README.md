@@ -10,7 +10,7 @@
 ## :octocat: Contact
 <ul>
   <li>이메일 : des321321@naver.com</li>
-  <li>블로그 : https://velog.io/@alaliyo, https://blog.naver.com/des321321</li>
+  <li>블로그 : https://waraliyo.tistory.com/, https://blog.naver.com/des321321</li>
   <li>깃헙 : https://github.com/alaliyo</li>
 </ul>
 
