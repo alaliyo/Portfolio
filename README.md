@@ -27,7 +27,12 @@
 ><div>개인 레포 링크 : <a href="https://github.com/alaliyo/project_MAP_front_my_code">alaliyo/project_MAP_front_my_code</a></div>
 ><div>공동 레포 링크 : <a href="https://github.com/alaliyo/final_project_MAP_front">alaliyo/final_project_MAP_front</a></div>
 
-
-#
+>### 2. to-do-list (개인 프로젝트)
+><div>개발 기간 : 23-02-13 ~ </div>
+><div>포지션 : 기획 및 프론트 엔드 개발, 파이어 베이스 연결 및 배포</div>
+><br>
+><div>기술 스택 : HTML5, CSS3, JavaScript, React</div>
+><div>공동 레포 링크 : <a href="https://github.com/alaliyo/to-do-list">alaliyo/to-do-list</a></div>
+><div>배포 링크 : <a href="to-do-list-5d16b.firebaseapp.com">to-do-list-5d16b.firebaseapp.com</a></div>
 
 
