@@ -35,6 +35,6 @@
 ><br>
 ><div>기술 스택 : HTML5, CSS3, JavaScript, React</div>
 ><div>공동 레포 링크 : <a href="https://github.com/alaliyo/to-do-list">alaliyo/to-do-list</a></div>
-><div>배포 링크 : <a href="to-do-list-5d16b.firebaseapp.com">to-do-list-5d16b.firebaseapp.com</a></div>
+><div>배포 링크 : <a href=""https://to-do-list-5d16b.firebaseapp.com">to-do-list-5d16b.firebaseapp.com</a></div>
 
 
