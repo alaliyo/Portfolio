@@ -26,15 +26,21 @@
 ><div>포지션 : 프론트 엔드 개발자</div>
 ><br>
 ><div>기술 스택 : HTML5, CSS3, JavaScript, jQuery, ajax</div>
-><div>개인 레포 링크 : <a href="https://github.com/alaliyo/project_MAP_front_my_code">alaliyo/project_MAP_front_my_code</a></div>
-><div>공동 레포 링크 : <a href="https://github.com/alaliyo/final_project_MAP_front">alaliyo/final_project_MAP_front</a></div>
+><div>개인 레포 링크 : <a href="https://github.com/alaliyo/project_MAP_front_my_code" target='_blank'>alaliyo/project_MAP_front_my_code</a></div>
+><div>공동 레포 링크 : <a href="https://github.com/alaliyo/final_project_MAP_front" target='_blank'>alaliyo/final_project_MAP_front</a></div>
 
 >### 2. to-do-list (개인 프로젝트)
-><div>개발 기간 : 23-02-13 ~ </div>
+><div>개발 기간 : 23-02-13 ~ 23-02-24 </div>
 ><div>포지션 : 기획 및 프론트 엔드 개발, 파이어 베이스 연결 및 배포</div>
 ><br>
-><div>기술 스택 : HTML5, CSS3, JavaScript, React</div>
-><div>공동 레포 링크 : <a href="https://github.com/alaliyo/to-do-list">alaliyo/to-do-list</a></div>
-><div>배포 링크 : <a href="https://to-do-list-5d16b.firebaseapp.com/">to-do-list-5d16b.firebaseapp.com</a></div>
+><div>기술 스택 : React</div>
+><div>공동 레포 링크 : <a href="https://github.com/alaliyo/to-do-list" target='_blank'>alaliyo/to-do-list</a></div>
+><div>배포 링크 : <a href="https://to-do-list-5d16b.firebaseapp.com/" target='_blank'>to-do-list-5d16b.firebaseapp.com</a></div>
 
+>### 3. HP(Hpbby Pairing) (팀 프로젝트)
+><div>개발 기간 : 23-03-27 ~ </div>
+><div>포지션 : 기획 및 프론트</div>
+><br>
+><div>기술 스택 : React</div>
+><div>github 링크 : <a href="https://github.com/alaliyo/hobby-pairing" target='_blank'>hobby-pairing</a></div>
 
