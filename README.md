@@ -45,4 +45,5 @@
 ><br>
 ><div>기술 스택 : React, TS, firebase </div>
 ><div>github 링크 : <a href="https://github.com/alaliyo/ifc-homepage" target='_blank'>ifc-homepage</a></div>
+><div>배포 링크 : <a href="https://ifc-homepage-2a6b5.firebaseapp.com/" target='_blank'>바로가기</a></div>
 
