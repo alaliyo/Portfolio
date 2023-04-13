@@ -39,10 +39,10 @@
 ><div>공동 레포 링크 : <a href="https://github.com/alaliyo/to-do-list" target='_blank'>alaliyo/to-do-list</a></div>
 ><div>배포 링크 : <a href="https://to-do-list-5d16b.firebaseapp.com/" target='_blank'>to-do-list-5d16b.firebaseapp.com</a></div>
 
->### 3. HP(Hpbby Pairing) (팀 프로젝트)
-><div>개발 기간 : 23-03-27 ~ </div>
-><div>포지션 : 기획 및 프론트</div>
+>### 3. 열방교회 홈페이지 (개인 프로젝트)
+><div>개발 기간 : 23-04-05 ~ </div>
+><div>포지션 : 기획 및 프론트, 데이터 구축 및 배포</div>
 ><br>
-><div>기술 스택 : React</div>
-><div>github 링크 : <a href="https://github.com/alaliyo/hobby-pairing" target='_blank'>hobby-pairing</a></div>
+><div>기술 스택 : React, TS, firebase </div>
+><div>github 링크 : <a href="https://github.com/alaliyo/ifc-homepage" target='_blank'>ifc-homepage</a></div>
 
