@@ -47,7 +47,7 @@
 ><div>포지션 : 기획 및 프론트, 데이터 구축 및 배포</div>
 ><br>
 ><div>기술 스택 : React, TS, firebase </div>
-><div>배포 링크 : <a href="https://ifcc.or.kr/" target='_blank'>바로가기 (네이버 맵에 양산 열방교회 검색해도 확인 가능)</a></div>
+><div>배포 링크 : <a href="https://ifcc.or.kr/" target='_blank'>바로가기 (네이버 지도에서 양산 열방교회 검색해도 확인 가능)</a></div>
 
 <br>
 
