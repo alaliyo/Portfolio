@@ -17,7 +17,6 @@
   <li>깃헙 : https://github.com/alaliyo</li>
 </ul>
 
-
 #
 <br/>
 
@@ -31,6 +30,8 @@
 ><div>개인 레포 링크 : <a href="https://github.com/alaliyo/project_MAP_front_my_code" target='_blank'>alaliyo/project_MAP_front_my_code</a></div>
 ><div>공동 레포 링크 : <a href="https://github.com/alaliyo/final_project_MAP_front" target='_blank'>alaliyo/final_project_MAP_front</a></div>
 
+<br>
+
 >### 2. to-do-list (개인 프로젝트)
 ><div>개발 기간 : 23-02-13 ~ 23-02-24 </div>
 ><div>포지션 : 기획 및 프론트 엔드 개발, 파이어 베이스 연결 및 배포</div>
@@ -39,11 +40,20 @@
 ><div>공동 레포 링크 : <a href="https://github.com/alaliyo/to-do-list" target='_blank'>alaliyo/to-do-list</a></div>
 ><div>배포 링크 : <a href="https://to-do-list-5d16b.firebaseapp.com/" target='_blank'>to-do-list-5d16b.firebaseapp.com</a></div>
 
+<br>
+
 >### 3. 열방교회 홈페이지 (개인 프로젝트)
-><div>개발 기간 : 23-04-05 ~ </div>
+><div>개발 기간 : 23-04-05 ~ 23-05-02 초안 완료 (초안 완료 후 매주 2회 2시간 작업)</div>
 ><div>포지션 : 기획 및 프론트, 데이터 구축 및 배포</div>
 ><br>
 ><div>기술 스택 : React, TS, firebase </div>
-><div>github 링크 : <a href="https://github.com/alaliyo/ifc-homepage" target='_blank'>ifc-homepage</a></div>
-><div>배포 링크 : <a href="https://ifc-homepage-2a6b5.firebaseapp.com/" target='_blank'>바로가기</a></div>
+><div>배포 링크 : <a href="https://ifcc.or.kr/" target='_blank'>바로가기 (네이버 맵에 양산 열방교회 검색해도 확인 가능)</a></div>
 
+<br>
+
+>### 4. Hobby-Hup (개인 프로젝트)
+><div>개발 기간 : 23.05.15 ~ (매주 5회 4시간 작업 예상)</div>
+><div>포지션 : 기획 및 프론트, 데이터 구축 및 배포</div>
+><br>
+><div>기술 스택 : React, TS, firebase </div>
+><div>github 링크 : <a href="https://github.com/alaliyo/ifc-homepage" target='_blank'>깃헙 링크</a></div>
