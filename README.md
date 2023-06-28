@@ -58,3 +58,4 @@
 ><br>
 ><div>기술 스택 : React, TS, firebase </div>
 ><div>github 링크 : <a href="https://github.com/alaliyo/ifc-homepage" target='_blank'>깃헙 링크</a></div>
+><div>배포 링크 : <a href="https://hobby-hub-887d6.firebaseapp.com/">홈페이지로</a></div>
