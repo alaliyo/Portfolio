@@ -53,9 +53,19 @@
 <br>
 
 >### 4. Hobby-Hup (개인 프로젝트)
-><div>개발 기간 : 23.05.15 ~ (매주 5회 4시간 작업 예상)</div>
+><div>개발 기간 : 23.05.15 ~ 23.08.11</div>
 ><div>포지션 : 기획 및 프론트, 데이터 구축 및 배포</div>
 ><br>
 ><div>기술 스택 : React, TS, firebase </div>
 ><div>github 링크 : <a href="https://github.com/alaliyo/ifc-homepage" target='_blank'>깃헙 링크</a></div>
 ><div>배포 링크 : <a href="https://hobby-hub-887d6.firebaseapp.com/">홈페이지로</a></div>
+
+<br>
+
+>### 5. InCh (개인 프로젝트)
+><div>개발 기간 : 23.09.15 ~ </div>
+><div>포지션 : 디자인, 기획 및 프론트, 데이터 구축 및 배포</div>
+><div>기획내용 : 간단한 소개 페이지 및 교회 홈페이지 제작 업</div>
+><br>
+><div>기술 스택 : React, TS, firebase, 다양한 라이브러리 </div>
+><div>배포 링크 : <a href="https://set-up-church-website.firebaseapp.com">홈페이지로</a></div>
