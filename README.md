@@ -9,9 +9,9 @@
   <!-- 기술 배지 예시: shields.io -->
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img alt="styled‑components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
-  <img alt="styled‑components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
