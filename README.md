@@ -40,7 +40,7 @@
 |------|------|
 | **Tech Stack** | React · TypeScript · Google Maps SDK |
 | **Description** | 지도 API를 활용한 가이드 페이지 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | [Live Site](http://bl1024.iwinv.net/) |
 
 </details>
 
@@ -51,7 +51,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery · PHP |
 | **Description** | 채용 정보 게시 및 지원서 관리 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | 관리자 페이지로 비공개 |
 
 </details>
 
@@ -62,7 +62,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery · PHP |
 | **Description** | 쇼핑몰 UI 및 백엔드 연동 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | [Live Site](http://bl1024.iwinv.net/) |
 
 </details>
 
@@ -73,7 +73,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery |
 | **Description** | 분양 상품 목록 및 예약 기능 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | [Live Site](https://maison9.kr/) |
 
 </details>
 
@@ -84,7 +84,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery · PHP |
 | **Description** | 기관 소개 및 문의 폼 구현 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | [Live Site](https://safetyabc.net/) |
 
 </details>
 
@@ -95,7 +95,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery |
 | **Description** | 학생 관리 및 보고서 생성 시스템 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | admin으로 비공개 |
 
 </details>
 
@@ -106,7 +106,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery |
 | **Description** | 서비스 정보 및 문의 폼 구현 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | [Live Site](https://www.hand1004.com) |
 
 </details>
 
@@ -117,7 +117,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery |
 | **Description** | 정보 제공용 랜딩 페이지 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | [Live Site](https://www.djcbs.co.kr) |
 
 </details>
 
@@ -128,18 +128,7 @@
 |------|------|
 | **Tech Stack** | HTML · CSS · JavaScript · jQuery · PHP |
 | **Description** | 강의 등록 · 결제 기능 구현 |
-| **Link** | [Live Site](https://example.com) |
-
-</details>
-
-<details>
-<summary><strong>세계로선교회</strong> — 교회 홈페이지</summary>
-
-| 항목 | 내용 |
-|------|------|
-| **Tech Stack** | HTML · CSS · JavaScript · jQuery |
-| **Description** | 교회 주요 정보 및 행사 소개 페이지 |
-| **Link** | [Live Site](https://example.com) |
+| **Link** | 서비스 종료 |
 
 </details>
 
