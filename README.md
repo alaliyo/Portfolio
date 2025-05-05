@@ -141,7 +141,7 @@
 - **State Mgmt**&nbsp;· Zustand  
 - **Styling**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Tailwind CSS, Styled‑Components  
 - **Data Fetching** · Axios  
-- **Platform**&nbsp;&nbsp;&nbsp;· Firebase, AWS S3  
+- **Platform**&nbsp;&nbsp;&nbsp;· Firebase
 
 ---
 
