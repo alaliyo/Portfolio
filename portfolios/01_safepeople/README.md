@@ -1,7 +1,7 @@
-# 🛡️ SafePeople TBM AI 솔루션 – Admin Dashboard Case Study
+# 🛡️ SafePeople TBM AI 솔루션 – Admin
 
 > **Period** | 2025.01.06 – 2025.01.17 
-> **Role**  | Front‑End (Admin 전담)  
+> **Role**  | Front‑End Solo (기획 제외 전 페이지 개발)  
 > **Stack** | React • TypeScript • React‑Router • Zustand • Axios • Styled‑Components • moment • react-quill
 
 <div align="center">
@@ -31,8 +31,7 @@ Admin 웹은
 
 1. **디자인 패턴 수립 (MVVM + Atomic Design)**  
   - View ↔ ViewModel ↔ Domain 계층 분리 가이드 작성  
-  - 커스텀 hook 패턴
-  - Compound Components 패턴
+  - **Custom Hook** · **Compound Components** 패턴 적용
 
 2. **전체 페이지 구현**  
   - 로그인, 대시보드, 멤버·권한, 공지사항, 파일 관리 등 **6 라우트·18 화면** 개발  
