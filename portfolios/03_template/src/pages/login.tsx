@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 import useLogin from "../hooks/useLogin";
 import { LoginBox, LoginForm, LoginLayout } from "../styles/member.style";
+import CommonInput from "../components/common/CommonInput";
+import CommonBtn from "../components/common/CommonBtn";
 
 export default function Login() {
 	const {
@@ -14,19 +16,19 @@ export default function Login() {
 			<LoginBox>
 				<h2>로그인</h2>
 				<LoginForm onSubmit={LoginSubmit}>
-					<input 
+					<CommonInput
 						type="text"
 						name="member_id"
 						value={formData.member_id}
 						onChange={handleInputChange}
 					/>
-					<input 
+					<CommonInput
 						type="password"
 						name="member_pw"
 						value={formData.member_pw}
 						onChange={handleInputChange}
 					/>
-					<button type="submit">로그인</button>
+					<CommonBtn type="submit">로그인</CommonBtn>
 
 					<Link to="/signup">회원가입하러 가기</Link>
 				</LoginForm>
