@@ -19,14 +19,16 @@
 ## 📌 Featured Projects
 |  프로젝트 | 기간 | Stack | 설명 |
 |-----------|------|-------|------|
-| **핑크라이트 Admin** | 2024‑03 → 2024‑03 | HTML · CSS · JS | 싱글 페이지 |
-| **SK이노베이션 내부 앱** | 2024‑05 → 2024‑08 | HTML · CSS · JS | 모피어스 하이브리드 앱 프론트 인터페이스 |
-| **G‑pink Admin** | 2024‑07 → 2024‑07 | Next.js · TS | 관리자용 컴포넌트 |
-| **[안전하는 사람들 Admin](./portfolios/01_safepeople)** | 2025‑01 | React · TS | 관리자용 컴포넌트 |
-| **[수영구 청소년 상담센터 시스템](./portfolios/02_suyeong)** | 2025‑01 → 2025‑04 | React · TS | 결재·회계·근태 관리 + MVVM 패턴 |
-| **[공용 API 프론트 템플릿](./portfolios/03_template)** | 2025‑04 → 2025-05 | React · TS | 재사용 가능한 API 연동 템플릿 + MVVM 패턴 |
+| **[랑구스토리](https://www.langustory.com/index)** | 2025‑10 → 2025-03 | React · TS | 설계 웹 사용자 및 관리자 페이지 + FSD |
+| **플라워 일번지** | 2025‑09 → 2025-10 | React · TS | 기획 및 웹 가맹점 admin, 쇼핑몰 프론트 리뉴얼 |
 | **핑크파트너스** | 2025‑08 → 2025-08 | React · TS | 기획 및 웹 프론트 개발 |
-| **플라워 일번지** | 2025‑09 → Present | React · TS | 기획 및 웹 가맹점 admin, 쇼핑몰 프론트 리뉴얼 |
+| **[공용 API 프론트 템플릿](./portfolios/03_template)** | 2025‑04 → 2025-05 | React · TS | 재사용 가능한 API 연동 템플릿 + MVVM 패턴 |
+| **[수영구 청소년 상담센터 시스템](./portfolios/02_suyeong)** | 2025‑01 → 2025‑04 | React · TS | 결재·회계·근태 관리 + MVVM 패턴 |
+| **[안전하는 사람들 Admin](./portfolios/01_safepeople)** | 2025‑01 | React · TS | 관리자용 컴포넌트 |
+| **G‑pink Admin** | 2024‑07 → 2024‑07 | Next.js · TS | 관리자용 컴포넌트 |
+| **SK이노베이션 내부 앱** | 2024‑05 → 2024‑08 | HTML · CSS · JS | 모피어스 하이브리드 앱 프론트 인터페이스 |
+| **핑크라이트 Admin** | 2024‑03 → 2024‑03 | HTML · CSS · JS | 싱글 페이지 |
+
 
 > 📂 각 프로젝트 폴더에 **Case Study README**가 있습니다.  
 > 🖼️ 코드를 공개할 수 없는 회사 프로젝트는 **/assets/** 폴더에 UI 스크린샷·다이어그램·성과 리포트를 포함했습니다.
